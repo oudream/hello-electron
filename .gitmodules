@@ -1,0 +1,15 @@
+[submodule "referto/electron-quick-start"]
+	path = referto/electron-quick-start
+	url = https://github.com/electron/electron-quick-start.git
+[submodule "referto/electronic-wechat"]
+	path = referto/electronic-wechat
+	url = https://github.com/geeeeeeeeek/electronic-wechat.git
+[submodule "referto/electron"]
+	path = referto/electron
+	url = https://github.com/electron/electron.git
+[submodule "referto/electron-sample-apps"]
+	path = referto/electron-sample-apps
+	url = https://github.com/hokein/electron-sample-apps.git
+[submodule "referto/Space-Snake"]
+	path = referto/Space-Snake
+	url = https://github.com/ilyagru/Space-Snake.git
