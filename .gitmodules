@@ -13,3 +13,6 @@
 [submodule "referto/Space-Snake"]
 	path = referto/Space-Snake
 	url = https://github.com/ilyagru/Space-Snake.git
+[submodule "referto/electron-api-demos"]
+	path = referto/electron-api-demos
+	url = https://github.com/electron/electron-api-demos.git
